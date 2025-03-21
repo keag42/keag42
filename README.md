@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is keagan, and im primarilt a backend dev based in Toronto.
+My Name is keagan, and im primarily a backend dev based in Toronto.
 
 My Langauges include: Java, C, C#, Python, HTML, CSS, Java Script, Bash, sh.
 
