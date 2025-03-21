@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My Name is keagan, and im primarilt a backend dev based in Toronto.
+
+My Langauges include: Java, C, C#, Python, HTML, CSS, Bash, sh.
+
+Projects include: robotic bike, battle ship (java + applets), websites:  .
+on going: Chess C#
+
 <!--
 **keag42/keag42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
