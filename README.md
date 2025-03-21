@@ -1,18 +1,12 @@
-## Hi there 👋
-
 My Name is keagan, and im primarily a backend dev based in Toronto.
-
 My Langauges include: Java, C, C#, Python, HTML, CSS, Java Script, Bash, sh.
-
-Projects include: robotic bike, battle ship (java + applets)
-Projects on going: Chess C#
 
 <h1 align="center">Hi 👋, I'm keagan</h1>
 <h3 align="center">My Name is keagan, and im primarily a backend dev based in Toronto.</h3>
 
 - 🔭 I’m currently working on **Robotic bike**
 
-- 👯 I’m looking to collaborate on **Chess in c#**
+- 👯 I’m currently working on **Chess in c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
