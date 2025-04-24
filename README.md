@@ -22,4 +22,4 @@ My Langauges include: Java, C, C#, Python, HTML, CSS, Java Script, Bash, sh.
 <br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keag42&show_icons=true&locale=en" alt="keag42" /></p>  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keag42&show_icons=true&locale=en" alt="keag42" /></p>  
