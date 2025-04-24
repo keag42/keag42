@@ -19,5 +19,6 @@ My Langauges include: Java, C, C#, Python, HTML, CSS, Java Script, Bash, sh.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keag42&show_icons=true&locale=en&layout=compact" alt="keag42" /></p>
 
-<br>
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keag42&show_icons=true&locale=en" alt="keag42" /></p>  
