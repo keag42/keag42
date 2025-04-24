@@ -1,5 +1,3 @@
-My Name is keagan, and im primarily a backend dev based in Toronto.
-My Langauges include: Java, C, C#, Python, HTML, CSS, Java Script, Bash, sh.
 
 <h1 align="center">Hi 👋, I'm keagan</h1>
 <h3 align="center">My Name is keagan, and im primarily a backend dev.
