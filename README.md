@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm keagan</h1>
 <h3 align="center">My Name is keagan, and im primarily a backend dev.
 
-- 🔭 I’m currently working on **Robotic bike**
+- 🔭 I’m currently working on **Robotic bike** (Finished)
 
-- 👯 I’m currently working on **Chess in c#**
+- 👯 I’m currently working on **Chess in c#** (Finished)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
